@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="![Uploading anime-typing.gif…]()
+  <img src="![Uploading anime-typing.gif…](C:\Users\etechas\Downloads\anime-pyping.gif)
 " alt="Imagem personalizada" width="400"/>
 </p>
 
