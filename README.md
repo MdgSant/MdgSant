@@ -16,7 +16,8 @@
 ---
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/Xf_PZVtHpSgAAAAC/anime-typing.gif" alt="Imagem personalizada" width="400"/>
+  <img src="![Uploading anime-typing.gif…]()
+" alt="Imagem personalizada" width="400"/>
 </p>
 
 <!--
