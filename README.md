@@ -15,10 +15,8 @@
 
 ---
 
-### 📸 Foto de perfil ou banner
-
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Ftyping-anime-gifs&psig=AOvVaw0eD7I1rM_D3iYGJIFIMwx5&ust=1756420892913000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj4y_aHrI8DFQAAAAAdAAAAABAE" alt="Imagem personalizada" width="400"/>
+  <img src="https://media1.tenor.com/m/Xf_PZVtHpSgAAAAC/anime-typing.gif" alt="Imagem personalizada" width="400"/>
 </p>
 
 <!--
