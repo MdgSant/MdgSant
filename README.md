@@ -5,7 +5,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=radical" alt="Linguagens mais usadas">
 </p>
-  ![anime-typing](https://github.com/user-attachments/assets/6c6f9abe-aff3-43c3-98d6-d73ed6ac815e.gif)
+
+<p>
+  <img width="220" height="134" src="https://github.com/user-attachments/assets/f9afb448-d4af-4630-bd66-ff8ef38a6e01.gif" />
+</p>
 ---
 
 - 🌱 Atualmente estudando: C#, Banco de dados e Java
