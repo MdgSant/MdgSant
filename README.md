@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <img width="220" height="134" alt="image" src="https://github.com/user-attachments/assets/d8c807c9-1feb-4fd5-adb1-55ca06e27f2b" />
+  ![anime-typing](https://github.com/user-attachments/assets/08649896-b77d-4434-9d09-34729d829fde)
 </p>
 
 ---
