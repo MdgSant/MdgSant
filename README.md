@@ -6,6 +6,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=radical" alt="Linguagens mais usadas">
 </p>
 
+<p>
+  <img width="220" height="134" alt="image" src="https://github.com/user-attachments/assets/d8c807c9-1feb-4fd5-adb1-55ca06e27f2b" />
+</p>
+
 ---
 
 - 🌱 Atualmente estudando: C#, Banco de dados e Java
