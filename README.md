@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  ![anime-typing](https://github.com/user-attachments/assets/08649896-b77d-4434-9d09-34729d829fde)
+  ![anime-typing](https://github.com/user-attachments/assets/08649896-b77d-4434-9d09-34729d829fde.gif)
 </p>
 
 ---
