@@ -3,11 +3,11 @@
 <h1 align="center">Olá 👋, eu sou Miguel Santana</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=radical" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdgSant&layout=compact&langs_count=6&theme=radical" alt="Linguagens mais usadas">
 </p>
 
 <p>
-  <img width="220" height="134" src="https://github.com/user-attachments/assets/f9afb448-d4af-4630-bd66-ff8ef38a6e01.gif" />
+  <img width="220" height="134" src="https://github.com/user-attachments/assets/f9afb448-d4af-4630-bd66-ff8ef38a6e01" />
 </p>
 ---
 
